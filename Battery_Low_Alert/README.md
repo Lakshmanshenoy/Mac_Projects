@@ -1,7 +1,3 @@
-Here's the **updated detailed documentation**, now including the steps for granting **Full Disk & Accessibility Access** in macOS to ensure the script runs smoothly.  
-
----
-
 # **Low Battery Alert Script for macOS**  
 
 ## **Overview**  
